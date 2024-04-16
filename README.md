@@ -1,5 +1,11 @@
 # Blake
 
+I'm a Machine Learning Engineer with a background in generative AI.
+
+I enjoy learning and building with LLMs!
+
+Reach out for potential collaborations through <a href="https://www.linkedin.com/in/blakeam/">LinkedIn.</a>
+
 ## Language and Tools
 
 #### Main Stack:
