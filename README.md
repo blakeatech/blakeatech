@@ -8,13 +8,9 @@ Reach out for potential collaborations through <a href="https://www.linkedin.com
 
 ## Language and Tools
 
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://developer.mozilla.org/en-US/docs/Web/Python)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=r"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=typescript"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://react.dev/)
-  
+#### My Skills:
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=py,tensorflow,pytorch,sklearn,sqlite,postgres,mysql,git,github,gitlab,docker,kubernetes,aws,gcp,azure,linux,ubuntu,vscode,flask,fastapi)](https://skillicons.dev)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bamartin1618/bamartin1618/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/bamartin1618/bamartin1618/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <img src="https://komarev.com/ghpvc/?username=blakeam-tech&color=15171a">
