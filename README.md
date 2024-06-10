@@ -1,5 +1,7 @@
 # Blake
 
+<img src="./header.svg" width="10000">
+
 I'm a Machine Learning Engineer with a background in generative AI.
 
 I enjoy learning and building with LLMs!
