@@ -1,11 +1,16 @@
 <img src="./header.svg" width="10000">
 
 # I'm Blake, a Machine Learning Engineer from the United States.
-I'm a Machine Learning Engineer with a background in generative AI.
+I'm a Machine Learning Engineer with a background in Generative AI.
 
+My areas of expertise include:
 
-
-Reach out for potential collaborations through <a href="https://www.linkedin.com/in/blakeam/">LinkedIn.</a>
+<ul>
+  <li>Fine-Tuning</li>
+  <li>Retrieval Augmented Generation</li>
+  <li>Prompt Engineering</li>
+  <li>Reinforcement Learning from Human Feedback</li>
+</ul>
 
 ## My Projects ✨
 
