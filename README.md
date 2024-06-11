@@ -16,6 +16,7 @@ My areas of expertise include:
 
 - [EchoSearch](https://github.com/blakeam-tech/FaceRecognition), an image recognition system using a Python-based facial recognition library to manage photos of missing children for a charity. The system identifies matches, stores images in AWS S3, and features a Streamlit user interface deployed on Heroku for ease of operation.
 - [BeastSearch](https://github.com/blakeam-tech/MrBeastSearch), a tool that uses RAG and semantic similarity to query content from YouTuber Mr. Beast. Users can search for specific video scenes using text queries, facilitated by the [TrufflePig](https://www.trufflepig.ai/) library for indexing and fast, accurate search results.
+- [LeaderAI](https://github.com/blakeam-tech/LeaderAI), a Mistral 7B model specifically fine-tuned to understand the political philosophies and ideologies of Xi Jinping. This model is designed to serve as a predictive tool, aiming to forecast his potential actions and decisions in response to various international scenarios.
 
 ## Language and Tools
 
