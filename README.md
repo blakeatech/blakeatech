@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer with a background in Generative AI.
 My areas of expertise include:
 
 <ul>
-  <li>LLM Fine-Tuning</li>
+  <li>Fine-Tuning</li>
   <li>Retrieval Augmented Generation</li>
   <li>Prompt Engineering</li>
   <li>Reinforcement Learning from Human Feedback</li>
