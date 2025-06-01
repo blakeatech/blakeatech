@@ -1,2 +1,2 @@
 <img alt="Blake Martin's GitHub Profile README" src="https://raw.githubusercontent.com/blakeatech/blakeatech/main/light_mode.svg">
-![github contribution grid snake animation](https://raw.githubusercontent.com/blakeatech/blakeatech/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/blakeatech/blakeatech/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/blakeatech/blakeatech/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
