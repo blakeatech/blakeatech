@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<text>
+<tspan x="15" y="30">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="40">@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="50">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="60">@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="70">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="80">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="90">@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="100">@@@@@@@@@@@@@@@@@@@@@@@%##%@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="110">@@@@@@@@@@@@@@@@@@@%%%%*==+*#%@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="120">@@@@@@@@@@@@@@@@%@#+==-----=+*#@%@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="130">@@@@@@@@@@@@@@@@%@+--:::---=++*%@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="140">@@@@@@@@@@@@@@@@%@+-::::----=++#@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="150">@@@@@@@@@@@@@@@@%@*::::::---=++*@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="160">@@@@@@@@@@@@@@@%@%-::::::---==+*#@@%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="170">@@@@@@@@@@@@@@%++-:::::::---==+**@@%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="180">@@@@@@@@@@@@@@@=--:::::::::-==+*+#@%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="190">@@@@@@@@@@@@@@%--:::::::::-=+++*++%%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="200">@@@@@@@@@@@@@@%====++-----+#%%%%*+@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="210">@@@@@@@@@@@@@@@=**##*+=-=+*##**##+@%#@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="220">@@@@@@@@@@@@@=@++++**+=:=###%%###=@%#@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="230">@@@@@@@@@@@@@+%==**%*+=:-#++*#*#*+%#*@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="240">@@@@@@@@@@@@@=+=-====--:-*+==+++++*#*@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="250">@@@@@@@@@@@@@===-------:=**=====++*#*@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="260">@@@@@@@@@@@@@#-=-::::---=**=--==+**##@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="270">@@@@@@@@@@@@@@-=-::::--:-**=--==++#*%@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="280">@@@@@@@@@@@@@@-=-:::---:-*+*--=+++#*@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="290">@@@@@@@@@@@@@@+------=+=*%##===+*+#%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="300">@@@@@@@@@@@@@@%+=-=---=+###*+++**+@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="310">@@@@@@@@@@@@@@@@=-=----==+++*++***@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="320">@@@@@@@@@@@@@@@@==-====--+**#==***@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="330">@@@@@@@@@@@@@@@@+=--=+==+**#+=+*#%@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="340">@@@@@@@@@@@@@@@@%==---=-=+*+++**#@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="350">@@@@@@@@@@@@@@@@@+=---==+++++**##@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="360">@@@@@@@@@@@@@@@@@@=------==++**##@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="370">@@@@@@@@@@@@@@@@@@=+---:-==+**###@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="380">@@@@@@@@@@@@@@@@@@-+=----=++#####%@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="390">@@@@@@@@@@@@@@@@@@=-+====+*######*@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="400">@@@@@@@@@@@@@@@@@@+-=+**######**#*#@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="410">@@@@@@@@@@@@@@@@@@+-===+*####***##*%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="420">@@@@@@@@@@@@@@@@@@=--=-=+****++**#+%@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="430">@@@@@@@@@@@@@@@@@@=--===***++++****@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="440">@@@@@@@@@@@@@@@@@@==--=+++++=+++*+@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="450">@@@@@@@@@@@@@@@@@@*=---======++++%@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="460">@@@@@@@@@@@@@@@@@@%=---===--==++%@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="470">@@@@@@@@@@@@@@@@@@@+----=---==+%@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="480">@@@@@@@@@@@@@@@@@@@@+:----:-=+@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="490">@@@@@@@@@@@@@@@@@@@@@*=----*%@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="500">@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="510">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="520">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="530">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="540">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="550">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="560">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="570">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+</text>
+<text x="600" y="30" fill="#24292f">
+<tspan x="600" y="30">blake@martin</tspan> -———————————————————————————————————————————-—-
+<tspan x="600" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">23 years</tspan>
+<tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">AI Engineer</tspan>
+<tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode 1.100</tspan>
+<tspan x="600" y="150" class="cc">. </tspan>
+<tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, JavaScript, Java</tspan>
+<tspan x="600" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="600" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
+<tspan x="600" y="230" class="cc">. </tspan>
+<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Model Training, API Development</tspan>
+<tspan x="600" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">blakeatech@gmail.com</tspan>
+<tspan x="600" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">blakeatech</tspan>
+<tspan x="600" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="600" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">67</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">36</tspan>
+<tspan x="600" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">7.7k</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc" id="pr_data_dots"> ............. </tspan><tspan class="value" id="pr_data">109</tspan>
+<tspan x="600" y="510" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc" id="issues_data_dots"> .................... </tspan><tspan class="value" id="issues_data">231</tspan> | <tspan class="key">Contributed to</tspan>:<tspan class="cc" id="contrib_data_dots"> ... </tspan><tspan class="value" id="contrib_data">2</tspan>
+</text>
+</svg>
