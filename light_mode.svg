@@ -86,6 +86,7 @@ text, tspan {white-space: pre;}
 <tspan x="600" y="230" class="cc">. </tspan>
 <tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Model Training, API Development</tspan>
 <tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Natural Language Processing, Agents</tspan>
+<tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">LlamaIndex, LangGraph</tspan>
 <tspan x="600" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">blakeatech@gmail.com</tspan>
 <tspan x="600" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">blakeatech</tspan>
