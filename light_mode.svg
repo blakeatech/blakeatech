@@ -79,7 +79,6 @@ text, tspan {white-space: pre;}
 <tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">AI Engineer</tspan>
 <tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode 1.100</tspan>
 <tspan x="600" y="150" class="cc">. </tspan>
-<tspan x="600" y="150" class="cc">. </tspan>
 <tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, JavaScript, Java</tspan>
 <tspan x="600" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
 <tspan x="600" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
@@ -87,12 +86,14 @@ text, tspan {white-space: pre;}
 <tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Model Training, API Development</tspan>
 <tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Natural Language Processing, Agents</tspan>
 <tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">LlamaIndex, LangGraph</tspan>
-<tspan x="600" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">blakeatech@gmail.com</tspan>
+<tspan x="600" y="310" class="cc">. </tspan><tspan class="key">Tooling</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">GitHub Actions, Docker</tspan>
+<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Tooling</tspan>.<tspan class="key">Testing</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Pytest, Jest</tspan>
+<tspan x="600" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="600" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">blakeatech@gmail.com</tspan>
 <tspan x="600" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">blakeatech</tspan>
-<tspan x="600" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="600" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">67</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">36</tspan>
-<tspan x="600" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">7.7k</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc" id="pr_data_dots"> ............. </tspan><tspan class="value" id="pr_data">109</tspan>
-<tspan x="600" y="510" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc" id="issues_data_dots"> .................... </tspan><tspan class="value" id="issues_data">231</tspan> | <tspan class="key">Contributed to</tspan>:<tspan class="cc" id="contrib_data_dots"> ... </tspan><tspan class="value" id="contrib_data">2</tspan>
+<tspan x="600" y="410">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="600" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">67</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">36</tspan>
+<tspan x="600" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">7.7k</tspan> | <tspan class="key">PRs</tspan>:<tspan class="cc" id="pr_data_dots"> ............. </tspan><tspan class="value" id="pr_data">109</tspan>
+<tspan x="600" y="470" class="cc">. </tspan><tspan class="key">Issues</tspan>:<tspan class="cc" id="issues_data_dots"> .................... </tspan><tspan class="value" id="issues_data">231</tspan> | <tspan class="key">Contributed to</tspan>:<tspan class="cc" id="contrib_data_dots"> ... </tspan><tspan class="value" id="contrib_data">2</tspan>
 </text>
 </svg>
