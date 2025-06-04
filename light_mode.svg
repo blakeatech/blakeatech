@@ -85,7 +85,7 @@ text, tspan {white-space: pre;}
 <tspan x="600" y="230" class="cc">. </tspan>
 <tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Model Training, API Development</tspan>
 <tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Natural Language Processing, Agents</tspan>
-<tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">LlamaIndex, LangGraph</tspan>
+<tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">LlamaIndex, LangGraph, PyTorch</tspan>
 <tspan x="600" y="310" class="cc">. </tspan><tspan class="key">Tooling</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">GitHub Actions, Docker</tspan>
 <tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Tooling</tspan>.<tspan class="key">Testing</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Pytest</tspan>
 <tspan x="600" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
