@@ -6,5 +6,7 @@ My work spans advanced ML pipelines—multimodal models, agent-based workflows, 
 
 From semantic search with FAISS and Pinecone to scalable FastAPI services and LangGraph orchestration, I care deeply about traceability, monitoring, and maintainable design. Every repo is built like a product: clear architecture, clean code, and ready to ship.
 
+---
+
 <img alt="Blake Martin's GitHub Profile README" src="https://raw.githubusercontent.com/blakeatech/blakeatech/main/light_mode.svg">
 <img src="https://raw.githubusercontent.com/blakeatech/blakeatech/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
