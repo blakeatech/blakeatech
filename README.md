@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a machine learning engineer who builds end-to-end systems with a focus on robustness, modular design, and real-world deployment.
+I'm an AI engineer who builds end-to-end systems with a focus on robustness, modular design, and real-world deployment.
 
 My work spans advanced ML pipelines—multimodal models, agent-based workflows, and fine-tuned architectures—wired into production-ready platforms with clean APIs, modern frontends, and solid infrastructure (Docker, CI/CD).
 
